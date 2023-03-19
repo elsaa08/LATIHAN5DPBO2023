@@ -12,5 +12,5 @@ Download this starter project: starter project
 ● Build project (generate .jar file)
 
 ## Desain Program
-<img width="447" alt="image" src="https://user-images.githubusercontent.com/101001227/226165346-cd31c1b1-8036-4b8b-b9b2-fb35bad43385.png">
+
 
