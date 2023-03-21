@@ -22,7 +22,10 @@ Download this starter project: starter project
 ## demo 
 
 
-![Video tanpa judul ‐ Dibuat dengan Clipchamp](https://user-images.githubusercontent.com/101001227/226526963-e8a88278-86f0-4bc0-9356-d1a5a1fbaefe.gif)
+
+https://user-images.githubusercontent.com/101001227/226527696-4ed14d02-000e-4c2f-a0c2-35fb44fbf88a.mp4
+
+
 
 
 ## desain program
