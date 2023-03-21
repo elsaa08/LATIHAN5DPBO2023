@@ -32,13 +32,16 @@ terdapat 2 kelas yaitu
 
 ## penjelasan Alur kode program
 🤔 fungsi untuk reset pada form 
+
 <img width="396" alt="image" src="https://user-images.githubusercontent.com/101001227/226527051-0aa3786d-b118-484e-aea1-7e6026dba448.png">
 
 🤔 fungsi pada button cancel 
 meminta konfirmasi terlebih dahulu untuk reset pada form yang telah diisi, jika menekan tombol no pada dialog, form tidak ter reset
+
 <img width="585" alt="image" src="https://user-images.githubusercontent.com/101001227/226527284-c0ecce22-8e02-4e6d-ab30-283a2562f79f.png">
 
 🤔 fungsi pada delete data untuk konfirmasi sebelum hapus
+
 <img width="478" alt="image" src="https://user-images.githubusercontent.com/101001227/226527514-ae502e8a-4013-4003-b777-63936a97d38e.png">
 
 
