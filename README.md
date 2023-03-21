@@ -16,8 +16,18 @@ Download this starter project: starter project
 
 🍎 Build project (generate .jar file)
 
-## Desain 
+## Desain
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/101001227/226521855-420e75a9-1ec4-485e-bd1f-668a66b42e41.png">
+
+## demo 
+
+
+https://user-images.githubusercontent.com/101001227/226525632-6c743499-3cf9-457e-aefa-ea3bc6a25432.mp4
+
+## desain program
+terdapat 2 kelas yaitu 
+1. Mahasiswa -> yang berisi getter setter method untuk setiap variabel yang digunakan
+2. Menu -> yang berisi main dan fungsi-fungsi untuk mengatur Insert, Update, Delete, Reset data 
 
 
 
