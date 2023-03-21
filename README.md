@@ -26,6 +26,17 @@ Download this starter project: starter project
 https://user-images.githubusercontent.com/101001227/226527696-4ed14d02-000e-4c2f-a0c2-35fb44fbf88a.mp4
 
 
+## Add
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/101001227/226658442-cbee08ea-c827-483c-955b-dccacbbf45d3.png">
+
+## Update
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/101001227/226658058-c16ca9dd-c745-44ed-a329-c0652525e608.png">
+
+## Delete
+<img width="447" alt="image" src="https://user-images.githubusercontent.com/101001227/226658124-8b584d44-daf1-4e57-b959-de0cc87d4d6d.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/101001227/226658273-7885d7a3-7d7c-4d05-99e2-acb0e98af782.png">
+
+
 
 
 ## desain program
